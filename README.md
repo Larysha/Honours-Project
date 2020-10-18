@@ -1,4 +1,4 @@
-# Honours-Project
+# Honours Project
 ### ChIP-Seq analysis workflow and code 
 
 This project aims to identify potential transcription factors (TFs) involved in _PXDN_ regulation using publically available ChIP-Seq data. _PXDN_ is a gene that encodes the peroxidasin protein, which has been linked to several prominant diseases worldwide. These include breast and prostate cancers as well as kidney fibrosis and cardiovascular disease. Thus, these four tissue types are used in this analysis - breast, prostate, kidney and cardiovascular - to better understand the regulation of _PXDN_ in each. 
